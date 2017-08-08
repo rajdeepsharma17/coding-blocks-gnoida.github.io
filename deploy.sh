@@ -5,11 +5,11 @@ rm -rf dist/
 npm run build
 cd dist/
 git init .
-git config --local user.name "CodingBlocks Deploy Bot"
+git config --local user.name "CodingBlocks gnoida Deploy Bot"
 git config --local user.email "deploy-bot@codingblocks.com"
 now=$(date)
 echo "Deployed on $now" >> "Deployed_$now".txt
-echo "codingblocks.com" >> CNAME
+echo "gnoida.codingblocks.com" >> CNAME
 git add -A
 git commit -m "Deploy to GitHub Pages"
 git push --force --quiet "https://${GH_USER}:${GH_TOKEN}@${GH_REF}" master
