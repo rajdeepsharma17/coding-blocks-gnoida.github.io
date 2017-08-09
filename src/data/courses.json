@@ -147,37 +147,24 @@
       ]
     },
     {
-      "name": "Algo++",
-      "price": "12,000",
-      "imgSrc": "/assets/images/cb/logosc/color_algo.svg",
-      "imgAlt": "algo++ course logo",
-      "lectures": "(15 lectures)",
-      "link": "/courses/algo++.html",
+      "name": "Advance Java",
+      "price": "20,000",
+      "imgSrc": "/assets/images/cb/logosc/color_java.svg",
+      "imgAlt": "web development with Java course logo",
+      "lectures": "(26 lectures)",
+      "link": "/courses/elixir.html",
       "description": [
-        "Adv Data Structures & Algo in C++",
-        "Complex Problem Solving",
-        "Algorithmic Analysis",
-        "Interview Preparation"
-      ],
-      "odd": true
-    },
-    {
-      "name": "Perceptron",
-      "price": "22,000",
-      "imgSrc": "/assets/images/cb/logosc/color_ml.svg",
-      "imgAlt": "machine learning course logo",
-      "lectures": "(23 lectures)",
-      "link": "/courses/perceptron.html",
-      "description": [
-        "Code Machine Learning Algorithms",
-        "Artificial Intelligence",
-        "Natural Language Processing",
-        "3 Live Projects &amp; Hackathon"
+        "Servlet &amp; jsp",
+        "Spring &amp; Spring boot",
+        "Hibernate",
+        "Real time Web Apps",
+        "Deployment &amp; System Adminstration",
+        "LIVE Project &amp; Hackathon"
       ],
       "batches": [
         {
-          "startDate": "Aug 20",
-          "center": "Pitampura",
+          "startDate": "Aug 19",
+          "center": "Greater Noida",
           "time": "Evening"
         }
       ]
