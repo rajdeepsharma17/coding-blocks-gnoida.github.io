@@ -152,7 +152,7 @@
       "imgSrc": "/assets/images/cb/logosc/color_java.svg",
       "imgAlt": "web development with Java course logo",
       "lectures": "(26 lectures)",
-      "link": "/courses/elixir.html",
+      "link": "/courses/adv-java.html",
       "description": [
         "Servlet &amp; jsp",
         "Spring &amp; Spring boot",
@@ -163,7 +163,28 @@
       ],
       "batches": [
         {
-          "startDate": "Aug 19",
+          "startDate": "Aug 26",
+          "center": "Greater Noida",
+          "time": "Morning"
+        }
+      ]
+    },
+    {
+      "name": "Code4Kids",
+      "price": "5,000",
+      "imgSrc": "/assets/images/cb/logosc/color_ml.svg",
+      "imgAlt": "Foundation web course for school kids",
+      "lectures": "(10 lectures)",
+      "link": "/courses/code4kids.html",
+      "description": [
+        "Programming fundamentals",
+        "Coding with blockly",
+        "HTML &amp; CSS &amp; JS",
+        "Introduction to open source"
+      ],
+      "batches": [
+        {
+          "startDate": "Aug 26",
           "center": "Greater Noida",
           "time": "Evening"
         }

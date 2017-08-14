@@ -1,21 +1,21 @@
 {
-  "name": "Elixir Live",
-  "title": "Elixir Live: Web App Development Course in Delhi | Coding Blocks",
+  "name": "Advance Java",
+  "title": "Web App Development Course in Delhi & Greater Noida | Advance Java by Coding Blocks",
   "metas": [
     {
       "name": "description",
-      "content": "Coding Blocks offers online Web App Development Courses with NodeJS. Learn web development online and build great websites. Best online web development course."
+      "content": "Coding Blocks, best Web Development training institute in Delhi & Greater Noida offers Advance Java : web app development course. Learn Web Development Now."
     }
   ],
   "openGraph": {
-    "url": "https://codingblocks.com/courses/elixirlive.html",
-    "title": "Elixir Live - Full Stack Web Dev with Node.Js!",
+    "url": "https://codingblocks.com/courses/adv-java.html",
+    "title": "Advance Java - Web Dev with Spring Boot!",
     "image": "https://scontent.fdel1-1.fna.fbcdn.net/t45.5328-0/c0.0.540.540/p180x540/14058603_1077770128976987_1865333049_n.jpg",
     "description": "Web Development course is designed to help students develop professional websites/portals. This course will help students understand how the web engine works."
   },
   "header": {
-    "heading": "Elixir",
-    "subHeading": "Full stack web development with NodeJS",
+    "heading": "Advance Java",
+    "subHeading": "Web app development with Spring Boot",
     "breadcrumbs": [
       {
         "linkText": "Highlights",
@@ -33,7 +33,7 @@
     "bgSrc": "../assets/images/cb/cover/cover_node.jpg"
   },
   "overview": {
-    "content": "Web Development course is designed to help students develop professional websites/portals. This course will help students understand how the web engine works. Through this course, students will be made comfortable with java script for both Front end as well as back end use-cases<br> Elixir is a project based web development Full Stack course with backend in Node.JS. In this course, students will start building their website from scratch and will need to think like professional developers. Students will be aligned with a mentor and work on their web development projects under their guidance. Elixir enables students to go live with their websites and add a flair to their resume.<br> <br><br>"
+    "content": "Web Development course is designed to help students develop professional websites/portals. This course will help students understand how the web engine works. Through this course, students will be made comfortable with java script for front end and java as back end use-cases<br> Advance Java is a project based web development course with backend in Spring Boot. In this course, students will start building their website from scratch and will need to think like professional developers. Students will be aligned with a mentor and work on their web development projects under their guidance. Advance Java enables students to go live with their websites and add a flair to their resume.<br> <br><br>"
   },
   "courseHighlights": [
     {
@@ -146,21 +146,9 @@
     {
       "ques": "Will there by any projects ?",
       "ans": "Yes, most definitely. No course in web development is complete without projects, and we have a lot of focus on working on live projects and practical topics. We start with small projects like TodoList Managers, grow up to creating e-Commerce websites."
-    },
-    {
-      "ques": "What if I miss a live class?",
-      "ans": "Videos will be provided of all classes to students after the class. These can be used for revision as well as covering up missed classes."
     }
   ],
   "courseEnroll": {
-    "price": "9000",
-    "lectures": "(18 Lectures)",
-    "upcomingBatches": "<strong>Batches Starting This August!<strong>",
-    "registerBoxHeading": "<span style='font-size: 3.2rem; text-decoration: line-through;'>₹15,000</span>",
-    "registerButton": {
-      "buttonText": "Enroll Now",
-      "disabled": false
-    },
     "highlights": [
       {
         "icon": "et-line-search",
@@ -172,5 +160,5 @@
       }
     ]
   },
-  "registerLink": "https://students.codingblocks.com/payment/iframe?item_id=50"
+  "registerLink": "https://students.codingblocks.com/payment/iframe?item_id=43"
 }
